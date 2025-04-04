@@ -1,6 +1,3 @@
-Here's a README.md file tailored for the provided code:
-
-```markdown
 # WhatsApp Chatbot with AWS Lambda and Google Gemini API
 
 This project implements a WhatsApp chatbot using AWS Lambda, integrated with the WhatsApp Business API and Google's Gemini API for generating responses. The chatbot processes incoming messages and sends automated replies.
